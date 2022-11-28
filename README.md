@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://telegra.ph/file/ed7a7ea0695d9294b8025.jpg" alt="ArrowFlix Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>ArrowFlix</b>
 </h1>
 
 
